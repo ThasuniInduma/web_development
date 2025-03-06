@@ -1,0 +1,14 @@
+# Simple Addition Function in Python
+
+This repository contains a basic Python program that demonstrates a simple function to add two numbers. It is intended for beginners who want to understand how to write and use functions in Python.
+
+---
+
+## Code Overview
+
+The program consists of a function called `add_numbers` that takes two arguments (`a` and `b`) and returns their sum.
+
+```python
+def add_numbers(a, b):
+    return a + b
+
